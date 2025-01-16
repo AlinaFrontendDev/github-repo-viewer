@@ -1,0 +1,9 @@
+.repoButtonEdit {
+  background: #1f9ffb;
+  color: #fff;
+}
+
+.repoButtonDelete {
+  border: 1px solid red;
+  color: red;
+}

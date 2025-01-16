@@ -1,0 +1,11 @@
+.container {
+  background: #f1f1f1; /* Светло-голубой */
+  min-height: 100vh;
+  padding: 20px;
+  font-family: Roboto;
+  color: #333; /* Тёмный текст */
+}
+
+.container h1 {
+  color: #1f9ffb;
+}
